@@ -1,15 +1,12 @@
-.body{
-  border: 1px solid black;
-}
 .to-do-list{
     font-family: Arial, sans-serif;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 140px;
     max-width: 500px;
     background: #fff;
     border: 2px solid #ddd;
     border-radius: 12px;
-    padding: 20px;
+    padding: 60px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 h1{
